@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=79a5c737_002D9d74_002D47e7_002Dbe15_002D8784197eec73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateNonNullSite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE5A59FF-884E-46F4-9A50-A2B9F85F53D3::net5.0::ScazzolaTest.SiteTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ea2f825d_002Dbee4_002D4742_002Da4e1_002D186c1339a6f2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DbContext_Extends_TAPDbContext" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EFD23E1C-D943-42C2-ABBE-4A55553C7F9E::net5.0::TAP21_22.AuctionSite.Testing.DbContextTests.DbContext_Extends_TAPDbContext&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEF84225-E97A-4938-8CCB-78E8559CBFFF::net5.0::ScazzolaTests.SiteTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CE1E5BE6-0FF8-4C19-BA8A-5638001EE7C7::net5.0::ScazzolaSiteTest.Class1.createNewNonNullUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE5A59FF-884E-46F4-9A50-A2B9F85F53D3::net5.0::ScazzolaTest.Class1.A&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE5A59FF-884E-46F4-9A50-A2B9F85F53D3::net5.0::ScazzolaTest.Class1.createNewNonNullUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE5A59FF-884E-46F4-9A50-A2B9F85F53D3::net5.0::ScazzolaTest.SiteTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EFD23E1C-D943-42C2-ABBE-4A55553C7F9E::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryNullConnectionStringTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EFD23E1C-D943-42C2-ABBE-4A55553C7F9E::net5.0::TAP21_22.AuctionSite.Testing.HostBasicTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EFD23E1C-D943-42C2-ABBE-4A55553C7F9E::net5.0::TAP21_22.AuctionSite.Testing.DbContextTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE5A59FF-884E-46F4-9A50-A2B9F85F53D3::net5.0::ScazzolaTest.HostTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
